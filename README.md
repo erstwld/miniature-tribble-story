@@ -11,6 +11,7 @@ Assignment x2:
 3. Create Your Story via remote connection to **UW Madison Linux Server Address**
 
 Assignment x3:
+
 In this assignment, you will practice using GitHub from the command-line of a linux terminal while completing stories that are saved on GitHub. 
 
 1. Add to each Teammates Story (1 Paragraph. Perform text editing and all git commands in linux terminal)
